@@ -7,6 +7,6 @@ variable "ssh_key_private" {
 variable "ssh_key_public" {
   type    = string
   #Replace this with the location of you public key .pub
-  default = "~/.ssh/id_ed25519.pup"
+  default = "~/.ssh/id_ed25519.pub"
 }
 
