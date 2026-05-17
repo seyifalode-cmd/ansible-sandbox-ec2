@@ -138,7 +138,7 @@ terraform destroy -auto-approve
 
 ```bash
 # Clone the repository
-git clone https://github.com/Seyifunmi0604/ansible-sandbox-ec2.git
+git clone https://github.com/seyifalode-cmd/ansible-sandbox-ec2.git
 cd ansible-sandbox-ec2
 
 # Initialize and apply
