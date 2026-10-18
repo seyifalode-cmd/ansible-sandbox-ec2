@@ -1,4 +1,6 @@
-# **Ansible Sandbox EC2**
+# Ansible Sandbox EC2
+
+Oluwaseyi Michael Falode | Cloud & DevOps Engineering | Toronto, ON
 
 Minimal Terraform configuration that provisions a single AWS EC2 instance with Ansible pre-installed via user data — a clean, reproducible sandbox environment for learning and testing Ansible automation.
 
